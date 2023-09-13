@@ -4,12 +4,10 @@
 A Javascript client for fetching information about a fronted user [BigDataCloud](https://www.bigdatacloud.com)
 This client works without any Javascript dependencies and has no API key or account requirement... Simply load it up and you're ready to fetch information about your frontend users.
 
-For more information about this API and how it works, [please click here.](https://www.bigdatacloud.com/docs/api/client-info-api) 
-
 ## Documentation
 
 Documentation specific to this Free API Client is detailed below.
-For more information on other available APIs, please visit our [API area](https://www.bigdatacloud.com/docs).
+For more information about the API, please visit [FREE Client Info API](https://www.bigdatacloud.com/free-api/client-info-api).
 
 
 
